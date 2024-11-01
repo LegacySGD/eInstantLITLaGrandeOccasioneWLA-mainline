@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="La Grande Occasione WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LaGrandeOccasione" enableFreeSpin="Y" clientversion="1.0" gameId="300-2355-0" />
+	<GameClient name="La Grande Occasione WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LaGrandeOccasione" enableFreeSpin="Y" clientversion="1.0" gameId="300-2355-0" />
+	<GameClient name="La Grande Occasione WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LaGrandeOccasione" enableFreeSpin="Y" clientversion="1.0" gameId="300-2355-0" />
+</ClientConfig>
